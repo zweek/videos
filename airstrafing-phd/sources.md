@@ -26,6 +26,7 @@
 [Changing Q3 air movement to Q1 air movement](https://www.youtube.com/watch?v=MgWqaDqkBD0)<br>
 [Q2 style strafing is a result of John Carmack wanting to reduce air control](https://www.gamers.org/pub/archives/plans/johnc@idsoftware.com/1999-04-24_1999-06-05)<br>
 [Engine interview about Cod MW 19](https://www.gameinformer.com/2019/08/26/the-impressive-new-tech-behind-call-of-duty-modern-warfare)<br>
+[Dot Product Explanation by 3blue1brown](https://www.youtube.com/watch?v=LyGKycYT2v0)<br>
 
 ### The 'my professor would be disappointed' corner
 [Quake engine - Wikipedia](https://en.wikipedia.org/wiki/Quake_engine)<br>
