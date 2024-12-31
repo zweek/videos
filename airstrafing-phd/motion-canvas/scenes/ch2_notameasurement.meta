@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "how fast",
+      "targetTime": 1.7701273471453685
+    },
+    {
+      "name": "how closely",
+      "targetTime": 3.4941569642087105
+    },
+    {
+      "name": "wishvelocity",
+      "targetTime": 4.4941569642087105
+    }
+  ],
+  "seed": 3361206738
+}

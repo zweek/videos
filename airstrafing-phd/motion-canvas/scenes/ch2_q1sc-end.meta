@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "difference",
+      "targetTime": 0.41189189189189185
+    },
+    {
+      "name": "wishspeed",
+      "targetTime": 1.411891891891892
+    },
+    {
+      "name": "currentspeed",
+      "targetTime": 1.911891891891892
+    }
+  ],
+  "seed": 3330841054
+}

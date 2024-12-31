@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "constant 30",
+      "targetTime": 3.001832686502801
+    },
+    {
+      "name": "but that doesn't mean",
+      "targetTime": 4.292406351538639
+    },
+    {
+      "name": "gain 30 units",
+      "targetTime": 5.465404632986653
+    },
+    {
+      "name": "actual speedgain",
+      "targetTime": 7.9328400077488865
+    },
+    {
+      "name": "figure out",
+      "targetTime": 8.932840007748887
+    },
+    {
+      "name": "pythagoras",
+      "targetTime": 9.932840007748887
+    },
+    {
+      "name": "difference",
+      "targetTime": 11.86010965985423
+    }
+  ],
+  "seed": 955378871
+}

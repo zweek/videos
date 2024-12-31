@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "optimal angle",
+      "targetTime": 1.4050257459660607
+    },
+    {
+      "name": "farther forward",
+      "targetTime": 2.4262716476054047
+    },
+    {
+      "name": "adjust our inputs",
+      "targetTime": 6.6028515950069355
+    },
+    {
+      "name": "find mirrored",
+      "targetTime": 12.29868018765679
+    },
+    {
+      "name": "required angle change",
+      "targetTime": 16.971283508787884
+    },
+    {
+      "name": "180 degree flip",
+      "targetTime": 19.43342070439508
+    }
+  ],
+  "seed": 3932248665
+}

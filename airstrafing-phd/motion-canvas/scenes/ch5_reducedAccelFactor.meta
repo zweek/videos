@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "10 to 1",
+      "targetTime": 2.3983439636454635
+    },
+    {
+      "name": "limit accel_speed",
+      "targetTime": 3.4322274580074428
+    }
+  ],
+  "seed": 3819366276
+}

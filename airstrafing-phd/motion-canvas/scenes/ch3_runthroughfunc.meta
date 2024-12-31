@@ -1,0 +1,66 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "at 90 degrees",
+      "targetTime": 2.2398447606727037
+    },
+    {
+      "name": "of course",
+      "targetTime": 3.7435316946959896
+    },
+    {
+      "name": "zero",
+      "targetTime": 6.185316946959897
+    },
+    {
+      "name": "but this means",
+      "targetTime": 6.890879689521346
+    },
+    {
+      "name": "find out addspeed",
+      "targetTime": 9.06228978007762
+    },
+    {
+      "name": "subtract nothing",
+      "targetTime": 10.7130659767141
+    },
+    {
+      "name": "added to the player",
+      "targetTime": 13.457632600258732
+    },
+    {
+      "name": "equal to",
+      "targetTime": 15.497283311772316
+    },
+    {
+      "name": "per-frame accel limit",
+      "targetTime": 16.832366818528556
+    },
+    {
+      "name": "end result",
+      "targetTime": 19.386906884951713
+    },
+    {
+      "name": "30 units",
+      "targetTime": 21.620260987237852
+    },
+    {
+      "name": "90 degree angle",
+      "targetTime": 24.055127706070525
+    },
+    {
+      "name": "most apparently",
+      "targetTime": 27.2367557633964
+    },
+    {
+      "name": "it changes",
+      "targetTime": 28.1941939044486
+    },
+    {
+      "name": "increases length",
+      "targetTime": 31.199884215215935
+    }
+  ],
+  "seed": 2059531573
+}

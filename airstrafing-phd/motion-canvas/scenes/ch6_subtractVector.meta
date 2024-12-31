@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "veer amount",
+      "targetTime": 1.871873580490465
+    },
+    {
+      "name": "dot product",
+      "targetTime": 3.971873580490465
+    },
+    {
+      "name": "this impl",
+      "targetTime": 4.971873580490465
+    },
+    {
+      "name": "subtracts",
+      "targetTime": 6.571873580490463
+    },
+    {
+      "name": "new vector",
+      "targetTime": 8.665481348129964
+    },
+    {
+      "name": "tip of vel",
+      "targetTime": 10.856956083578954
+    },
+    {
+      "name": "clipped",
+      "targetTime": 13.575429259707304
+    }
+  ],
+  "seed": 2148138960
+}

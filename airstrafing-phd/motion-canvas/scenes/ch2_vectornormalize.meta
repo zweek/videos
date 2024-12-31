@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "The first thing",
+      "targetTime": 0.36493690282765295
+    },
+    {
+      "name": "The VectorNormalize",
+      "targetTime": 4.840576264345438
+    },
+    {
+      "name": "we can glance",
+      "targetTime": 8.017891497818065
+    },
+    {
+      "name": "it takes in",
+      "targetTime": 10.22547809789532
+    }
+  ],
+  "seed": 206655372
+}

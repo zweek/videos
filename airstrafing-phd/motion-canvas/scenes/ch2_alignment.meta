@@ -1,0 +1,70 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "320",
+      "targetTime": 53.454072479368484
+    },
+    {
+      "name": "wishvelocity",
+      "targetTime": 1
+    },
+    {
+      "name": "the next step",
+      "targetTime": 7.98399712952996
+    },
+    {
+      "name": "difference",
+      "targetTime": 9.177395048439182
+    },
+    {
+      "name": "wishspeed",
+      "targetTime": 9.931646932185146
+    },
+    {
+      "name": "how much",
+      "targetTime": 12.202404018658054
+    },
+    {
+      "name": "if zero",
+      "targetTime": 14.781431646932184
+    },
+    {
+      "name": "exit early",
+      "targetTime": 18.866128453534266
+    },
+    {
+      "name": "computing",
+      "targetTime": 20.9008073196986
+    },
+    {
+      "name": "otherwise",
+      "targetTime": 23.564029422317905
+    },
+    {
+      "name": "evaluates to false",
+      "targetTime": 24.931485468245423
+    },
+    {
+      "name": "we keep going",
+      "targetTime": 26.672299964119123
+    },
+    {
+      "name": "b-roll",
+      "targetTime": 33.53225690706852
+    },
+    {
+      "name": "limit",
+      "targetTime": 36.14712952996052
+    },
+    {
+      "name": "grounded_wish_speed",
+      "targetTime": 46.991083602439886
+    },
+    {
+      "name": "not clipped",
+      "targetTime": 49.922228202368125
+    }
+  ],
+  "seed": 3361206738
+}

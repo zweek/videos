@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "scale",
+      "targetTime": 1.5709468259448136
+    },
+    {
+      "name": "wishspeed constant",
+      "targetTime": 6.33569156068333
+    }
+  ],
+  "seed": 4201210847
+}

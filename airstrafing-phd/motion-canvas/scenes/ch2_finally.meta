@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "timeEvents": [
+    {
+      "name": "updated",
+      "targetTime": 0.4815112540192927
+    },
+    {
+      "name": "scaling",
+      "targetTime": 1.8261333001940288
+    },
+    {
+      "name": "up to",
+      "targetTime": 3.9159689557853103
+    },
+    {
+      "name": "adding",
+      "targetTime": 5.719005754642045
+    },
+    {
+      "name": "recap",
+      "targetTime": 8.39144414164696
+    },
+    {
+      "name": "dot product",
+      "targetTime": 9.821499726876796
+    },
+    {
+      "name": "velocity",
+      "targetTime": 11.340628196580855
+    },
+    {
+      "name": "wishvelocity",
+      "targetTime": 12.361393335369018
+    },
+    {
+      "name": "difference",
+      "targetTime": 17.76152619504989
+    },
+    {
+      "name": "compare",
+      "targetTime": 21.637653901254843
+    },
+    {
+      "name": "accel limit",
+      "targetTime": 23.43796832900765
+    },
+    {
+      "name": "smaller",
+      "targetTime": 25.262626692184707
+    },
+    {
+      "name": "added",
+      "targetTime": 26.36083119559509
+    }
+  ],
+  "seed": 1752635549
+}

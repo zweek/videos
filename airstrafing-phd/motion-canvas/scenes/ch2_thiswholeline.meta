@@ -1,0 +1,38 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "30",
+      "targetTime": 24.38037820943552
+    },
+    {
+      "name": "upper accel limit",
+      "targetTime": 1.7013302325808846
+    },
+    {
+      "name": "you can think",
+      "targetTime": 6.415479236611832
+    },
+    {
+      "name": "accel constant",
+      "targetTime": 7.915479236611832
+    },
+    {
+      "name": "reach grounded",
+      "targetTime": 11.599127152783382
+    },
+    {
+      "name": "tenth of a second",
+      "targetTime": 19.31396958239726
+    },
+    {
+      "name": "note that",
+      "targetTime": 20.67453899234106
+    },
+    {
+      "name": "walking speed",
+      "targetTime": 26.402105159396314
+    }
+  ],
+  "seed": 108343058
+}

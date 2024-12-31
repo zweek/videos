@@ -1,0 +1,42 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "snippet",
+      "targetTime": 4.503519125683063
+    },
+    {
+      "name": "this would normally mean",
+      "targetTime": 8.957923497267767
+    },
+    {
+      "name": "holding",
+      "targetTime": 10.71101639344263
+    },
+    {
+      "name": "sideways",
+      "targetTime": 11.299909651600322
+    },
+    {
+      "name": "vector max runspeed",
+      "targetTime": 13.5540082346119
+    },
+    {
+      "name": "300",
+      "targetTime": 16.419592909339357
+    },
+    {
+      "name": "added",
+      "targetTime": 17.27099694063052
+    },
+    {
+      "name": "always clipped",
+      "targetTime": 20.366407722982405
+    },
+    {
+      "name": "never benefit",
+      "targetTime": 24.906834488057715
+    }
+  ],
+  "seed": 3969369162
+}

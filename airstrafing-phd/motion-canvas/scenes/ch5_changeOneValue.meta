@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "10 to 1",
+      "targetTime": 2.4528396029377695
+    },
+    {
+      "name": "delete",
+      "targetTime": 3.3162412711590576
+    },
+    {
+      "name": "fadeout",
+      "targetTime": 5.058756073770821
+    }
+  ],
+  "seed": 3479053916
+}

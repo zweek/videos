@@ -1,0 +1,94 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "as you gain speed",
+      "targetTime": 5.42520123475826
+    },
+    {
+      "name": "gradually move",
+      "targetTime": 9.815776280490521
+    },
+    {
+      "name": "wishspeed",
+      "targetTime": 14.065843673784899
+    },
+    {
+      "name": "(transition)",
+      "targetTime": 16.462099893295658
+    },
+    {
+      "name": "current velocity",
+      "targetTime": 21.929880960369815
+    },
+    {
+      "name": "bigger than wishspeed",
+      "targetTime": 24.056619009150552
+    },
+    {
+      "name": "range of angles",
+      "targetTime": 25.556619009150552
+    },
+    {
+      "name": "clamped to 0",
+      "targetTime": 28.946057820127116
+    },
+    {
+      "name": "rotate wishdir",
+      "targetTime": 32.41383888720127
+    },
+    {
+      "name": "current",
+      "targetTime": 36.65312529358795
+    },
+    {
+      "name": "wish",
+      "targetTime": 37.88436906317841
+    },
+    {
+      "name": "stuck to 0",
+      "targetTime": 39.38064643956649
+    },
+    {
+      "name": "the bigger that difference",
+      "targetTime": 40.81015484610965
+    },
+    {
+      "name": "get some accel",
+      "targetTime": 50.78681955673498
+    },
+    {
+      "name": "a nice way to visualize this",
+      "targetTime": 53.060755501877885
+    },
+    {
+      "name": "copy",
+      "targetTime": 56.05726300942247
+    },
+    {
+      "name": "rotating it",
+      "targetTime": 58.1603847826068
+    },
+    {
+      "name": "line at height",
+      "targetTime": 59.90637852279115
+    },
+    {
+      "name": "as we increase",
+      "targetTime": 62.767392055948434
+    },
+    {
+      "name": "more rotation",
+      "targetTime": 68.00602935083757
+    },
+    {
+      "name": "line in relation",
+      "targetTime": 71.08539452643458
+    },
+    {
+      "name": "necessary rotation",
+      "targetTime": 74.08539452643458
+    }
+  ],
+  "seed": 977607947
+}

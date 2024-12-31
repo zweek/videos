@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "multiply by some value",
+      "targetTime": 2.520158433415572
+    },
+    {
+      "name": "add impulse",
+      "targetTime": 5.766606098590085
+    },
+    {
+      "name": "look direction",
+      "targetTime": 8.381731781650194
+    }
+  ],
+  "seed": 3939588794
+}

@@ -1,0 +1,86 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "specifically",
+      "targetTime": 1.5393314166525738
+    },
+    {
+      "name": "music cue",
+      "targetTime": 5.761905582165591
+    },
+    {
+      "name": "once",
+      "targetTime": 10.70468264124278
+    },
+    {
+      "name": "addspeed above 0",
+      "targetTime": 15.162466168625272
+    },
+    {
+      "name": "continue",
+      "targetTime": 17.675875762425633
+    },
+    {
+      "name": "from here",
+      "targetTime": 19.849207560192053
+    },
+    {
+      "name": "simulating",
+      "targetTime": 24.88708789887563
+    },
+    {
+      "name": "switch",
+      "targetTime": 25.88708789887563
+    },
+    {
+      "name": "but thanks to",
+      "targetTime": 28.704451242927078
+    },
+    {
+      "name": "30 unit threshold",
+      "targetTime": 30.86980092008307
+    },
+    {
+      "name": "this leniency",
+      "targetTime": 35.869800920083065
+    },
+    {
+      "name": "bigger than 90",
+      "targetTime": 38.89109481638515
+    },
+    {
+      "name": "also more punishing",
+      "targetTime": 40.556449383717656
+    },
+    {
+      "name": "See,",
+      "targetTime": 43.88099529318422
+    },
+    {
+      "name": "overstrafing",
+      "targetTime": 48.616294448419815
+    },
+    {
+      "name": "leniency range",
+      "targetTime": 52.64594656353557
+    },
+    {
+      "name": "because now",
+      "targetTime": 54.56864786551127
+    },
+    {
+      "name": "because current_speed",
+      "targetTime": 59.43732991717436
+    },
+    {
+      "name": "negative",
+      "targetTime": 61.436833470487045
+    },
+    {
+      "name": "it results",
+      "targetTime": 62.39996425110687
+    }
+  ],
+  "seed": 1722122158
+}

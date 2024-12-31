@@ -1,0 +1,42 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "locked quadrants",
+      "targetTime": 3.133156143524746
+    },
+    {
+      "name": "doesnt go any further",
+      "targetTime": 7.362234062107976
+    },
+    {
+      "name": "holding the correct buttons",
+      "targetTime": 10.331595811167116
+    },
+    {
+      "name": "turning the camera",
+      "targetTime": 11.667837018054314
+    },
+    {
+      "name": "other direction",
+      "targetTime": 13.110392685662074
+    },
+    {
+      "name": "wishvel angle",
+      "targetTime": 16.57992311472655
+    },
+    {
+      "name": "if ur moving",
+      "targetTime": 20.447980700241988
+    },
+    {
+      "name": "not aligned",
+      "targetTime": 22.00038098193363
+    },
+    {
+      "name": "diagonally",
+      "targetTime": 24.72292522741387
+    }
+  ],
+  "seed": 3895727663
+}

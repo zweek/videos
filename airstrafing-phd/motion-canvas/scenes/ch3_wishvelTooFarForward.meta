@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "too far forward",
+      "targetTime": 1.2583009918068133
+    },
+    {
+      "name": "don't accelerate",
+      "targetTime": 4.0664079344545065
+    }
+  ],
+  "seed": 4026936836
+}

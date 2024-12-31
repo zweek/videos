@@ -1,0 +1,54 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "returns",
+      "targetTime": 2.644590163934426
+    },
+    {
+      "name": "length",
+      "targetTime": 5.162759559143142
+    },
+    {
+      "name": "zero",
+      "targetTime": 8.217288201760926
+    },
+    {
+      "name": "subtracting",
+      "targetTime": 11.671821754056701
+    },
+    {
+      "name": "from wishspeed",
+      "targetTime": 13.235453505571314
+    },
+    {
+      "name": "any value",
+      "targetTime": 13.735453505571314
+    },
+    {
+      "name": "above 5",
+      "targetTime": 14.735453505571314
+    },
+    {
+      "name": "clipped",
+      "targetTime": 17.34452715640019
+    },
+    {
+      "name": "pointed forward enough",
+      "targetTime": 20.071781658353096
+    },
+    {
+      "name": "final accelspeed smaller",
+      "targetTime": 24.153582805076425
+    },
+    {
+      "name": "anywhere else",
+      "targetTime": 26.64448787897625
+    },
+    {
+      "name": "best thing",
+      "targetTime": 31.908105719736554
+    }
+  ],
+  "seed": 1305898997
+}

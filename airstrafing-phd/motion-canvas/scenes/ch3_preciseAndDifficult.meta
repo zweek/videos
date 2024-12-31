@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "really precise",
+      "targetTime": 1
+    },
+    {
+      "name": "turning",
+      "targetTime": 4.001250446588068
+    },
+    {
+      "name": "exactly",
+      "targetTime": 4.613397642015006
+    },
+    {
+      "name": "exacy 90 degrees",
+      "targetTime": 7.314022865309039
+    },
+    {
+      "name": "IS very precise",
+      "targetTime": 9.60763180881664
+    }
+  ],
+  "seed": 1300092617
+}
